@@ -8,4 +8,4 @@ This template has been built using SVG animation with CSS3.
 
 > Actual template is a lot smoother than this.  
 
-![Preview](https://github.com/tmKamal/hosted-images/blob/master/under-construction/Document.gif?raw=true)<br/>  
+![Preview](https://github.com/amiqagroup/hosted-images/blob/main/under-construction/Document.gif?raw=true)<br/>  
